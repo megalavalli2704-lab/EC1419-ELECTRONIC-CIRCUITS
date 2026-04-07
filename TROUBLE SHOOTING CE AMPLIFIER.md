@@ -8,6 +8,10 @@
 
 ## Tabulations 
 
+<img width="1018" height="1492" alt="image" src="https://github.com/user-attachments/assets/e26c70bd-c488-4d15-a55d-d5acf915ff36" />
+
 ## Semilog Graph
+
+<img width="947" height="664" alt="image" src="https://github.com/user-attachments/assets/f58f58cf-379a-4e98-80fb-8b258528b175" />
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
