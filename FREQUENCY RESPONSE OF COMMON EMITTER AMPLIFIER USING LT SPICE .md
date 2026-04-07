@@ -26,12 +26,17 @@
 
 ## Tabulation
 
+<img width="978" height="1600" alt="image" src="https://github.com/user-attachments/assets/83f4c282-1bbf-42ae-adae-5265ae30d8f0" />
+
+
+![Uploading image.png…]()
+
 ## Graph
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =*8-9dB*
 
-**BANDWIDTH =**
+**BANDWIDTH =*100KHz*
