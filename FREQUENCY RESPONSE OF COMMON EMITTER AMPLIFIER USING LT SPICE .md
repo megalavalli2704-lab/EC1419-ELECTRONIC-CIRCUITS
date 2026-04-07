@@ -29,7 +29,9 @@
 <img width="978" height="1600" alt="image" src="https://github.com/user-attachments/assets/83f4c282-1bbf-42ae-adae-5265ae30d8f0" />
 
 
-![Uploading image.png…]()
+<img width="978" height="1600" alt="image" src="https://github.com/user-attachments/assets/6585df95-1d16-4c72-8093-a8dfd0777a08" />
+
+
 
 ## Graph
 
